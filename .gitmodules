@@ -1,6 +1,9 @@
 [submodule "kernel"]
 	path = kernel
 	url = git@github.com:bitweaver/kernel.git
+[submodule "languages"]
+	path = languages
+	url = git@github.com:bitweaver/languages.git
 [submodule "liberty"]
 	path = liberty
 	url = git@github.com:bitweaver/liberty.git
