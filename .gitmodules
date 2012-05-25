@@ -106,3 +106,12 @@
 [submodule "install"]
 	path = install
 	url = git@github.com:bitweaver/install.git
+[submodule "gatekeeper"]
+	path = gatekeeper
+	url = git@github.com:bitweaver/gatekeeper.git
+[submodule "quota"]
+	path = quota
+	url = git@github.com:bitweaver/quota.git
+[submodule "tags"]
+	path = tags
+	url = git@github.com:bitweaver/tags.git
