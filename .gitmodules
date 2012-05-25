@@ -40,3 +40,6 @@
 [submodule "config/themes/pillbox"]
 	path = config/themes/pillbox
 	url = git@github.com:bitweaver/theme_pillbox.git
+[submodule "languages"]
+	path = languages
+	url = git@github.com:bitweaver/languages.git
