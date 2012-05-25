@@ -103,3 +103,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:bitweaver/wiki.git
+[submodule "install"]
+	path = install
+	url = git@github.com:bitweaver/install.git
