@@ -115,3 +115,282 @@
 [submodule "tags"]
 	path = tags
 	url = git@github.com:bitweaver/tags.git
+[submodule "address"]
+	path = address
+	url = git@github.com:bitweaver/address.git
+[submodule "badbehavior"]
+	path = badbehavior
+	url = git@github.com:bitweaver/badbehavior.git
+[submodule "bitcart"]
+	path = bitcart
+	url = git@github.com:bitweaver/bitcart.git
+[submodule "cascader"]
+	path = cascader
+	url = git@github.com:bitweaver/cascader.git
+[submodule "categories"]
+	path = categories
+	url = git@github.com:bitweaver/categories.git
+[submodule "chatterbox"]
+	path = chatterbox
+	url = git@github.com:bitweaver/chatterbox.git
+[submodule "citizen"]
+	path = citizen
+	url = git@github.com:bitweaver/citizen.git
+[submodule "ckeditor"]
+	path = ckeditor
+	url = git@github.com:bitweaver/ckeditor.git
+[submodule "commerce"]
+	path = commerce
+	url = git@github.com:bitweaver/commerce.git
+[submodule "contacts"]
+	path = contacts
+	url = git@github.com:bitweaver/contacts.git
+[submodule "cryptifier"]
+	path = cryptifier
+	url = git@github.com:bitweaver/cryptifier.git
+[submodule "debug"]
+	path = debug
+	url = git@github.com:bitweaver/debug.git
+[submodule "doc"]
+	path = doc
+	url = git@github.com:bitweaver/doc.git
+[submodule "energymeasures"]
+	path = energymeasures
+	url = git@github.com:bitweaver/energymeasures.git
+[submodule "events"]
+	path = events
+	url = git@github.com:bitweaver/events.git
+[submodule "fckeditor"]
+	path = fckeditor
+	url = git@github.com:bitweaver/fckeditor.git
+[submodule "filevault"]
+	path = filevault
+	url = git@github.com:bitweaver/filevault.git
+[submodule "galaxia"]
+	path = galaxia
+	url = git@github.com:bitweaver/galaxia.git
+[submodule "gallery2"]
+	path = gallery2
+	url = git@github.com:bitweaver/gallery2.git
+[submodule "games"]
+	path = games
+	url = git@github.com:bitweaver/games.git
+[submodule "geo"]
+	path = geo
+	url = git@github.com:bitweaver/geo.git
+[submodule "geshi"]
+	path = geshi
+	url = git@github.com:bitweaver/geshi.git
+[submodule "gigaupload"]
+	path = gigaupload
+	url = git@github.com:bitweaver/gigaupload.git
+[submodule "gmap"]
+	path = gmap
+	url = git@github.com:bitweaver/gmap.git
+[submodule "groups"]
+	path = groups
+	url = git@github.com:bitweaver/groups.git
+[submodule "hotwords"]
+	path = hotwords
+	url = git@github.com:bitweaver/hotwords.git
+[submodule "hype"]
+	path = hype
+	url = git@github.com:bitweaver/hype.git
+[submodule "libertyform"]
+	path = libertyform
+	url = git@github.com:bitweaver/libertyform.git
+[submodule "libertysecure"]
+	path = libertysecure
+	url = git@github.com:bitweaver/libertysecure.git
+[submodule "lucene"]
+	path = lucene
+	url = git@github.com:bitweaver/lucene.git
+[submodule "mapper"]
+	path = mapper
+	url = git@github.com:bitweaver/mapper.git
+[submodule "meta"]
+	path = meta
+	url = git@github.com:bitweaver/meta.git
+[submodule "modcomments"]
+	path = modcomments
+	url = git@github.com:bitweaver/modcomments.git
+[submodule "moderation"]
+	path = moderation
+	url = git@github.com:bitweaver/moderation.git
+[submodule "multisites"]
+	path = multisites
+	url = git@github.com:bitweaver/multisites.git
+[submodule "nlpg"]
+	path = nlpg
+	url = git@github.com:bitweaver/nlpg.git
+[submodule "packager"]
+	path = packager
+	url = git@github.com:bitweaver/packager.git
+[submodule "pdf"]
+	path = pdf
+	url = git@github.com:bitweaver/pdf.git
+[submodule "person"]
+	path = person
+	url = git@github.com:bitweaver/person.git
+[submodule "phpbb"]
+	path = phpbb
+	url = git@github.com:bitweaver/phpbb.git
+[submodule "phpgedview"]
+	path = phpgedview
+	url = git@github.com:bitweaver/phpgedview.git
+[submodule "polls"]
+	path = polls
+	url = git@github.com:bitweaver/polls.git
+[submodule "protector"]
+	path = protector
+	url = git@github.com:bitweaver/protector.git
+[submodule "reblog"]
+	path = reblog
+	url = git@github.com:bitweaver/reblog.git
+[submodule "recommends"]
+	path = recommends
+	url = git@github.com:bitweaver/recommends.git
+[submodule "root"]
+	path = root
+	url = git@github.com:bitweaver/root.git
+[submodule "samplecorp"]
+	path = samplecorp
+	url = git@github.com:bitweaver/samplecorp.git
+[submodule "sample"]
+	path = sample
+	url = git@github.com:bitweaver/sample.git
+[submodule "semaphore"]
+	path = semaphore
+	url = git@github.com:bitweaver/semaphore.git
+[submodule "sheets"]
+	path = sheets
+	url = git@github.com:bitweaver/sheets.git
+[submodule "shoutbox"]
+	path = shoutbox
+	url = git@github.com:bitweaver/shoutbox.git
+[submodule "sitehome"]
+	path = sitehome
+	url = git@github.com:bitweaver/sitehome.git
+[submodule "spamurai"]
+	path = spamurai
+	url = git@github.com:bitweaver/spamurai.git
+[submodule "sphinx"]
+	path = sphinx
+	url = git@github.com:bitweaver/sphinx.git
+[submodule "stencils"]
+	path = stencils
+	url = git@github.com:bitweaver/stencils.git
+[submodule "stickies"]
+	path = stickies
+	url = git@github.com:bitweaver/stickies.git
+[submodule "suggestion"]
+	path = suggestion
+	url = git@github.com:bitweaver/suggestion.git
+[submodule "superstars"]
+	path = superstars
+	url = git@github.com:bitweaver/superstars.git
+[submodule "switchboard"]
+	path = switchboard
+	url = git@github.com:bitweaver/switchboard.git
+[submodule "tasks"]
+	path = tasks
+	url = git@github.com:bitweaver/tasks.git
+[submodule "tickets"]
+	path = tickets
+	url = git@github.com:bitweaver/tickets.git
+[submodule "tidbits"]
+	path = tidbits
+	url = git@github.com:bitweaver/tidbits.git
+[submodule "tinymce"]
+	path = tinymce
+	url = git@github.com:bitweaver/tinymce.git
+[submodule "unit"]
+	path = unit
+	url = git@github.com:bitweaver/unit.git
+[submodule "upstall"]
+	path = upstall
+	url = git@github.com:bitweaver/upstall.git
+[submodule "warehouse"]
+	path = warehouse
+	url = git@github.com:bitweaver/warehouse.git
+[submodule "config/themes/babyblue"]
+	path = config/themes/babyblue
+	url = git@github.com:bitweaver/theme_babyblue.git
+[submodule "config/themes/cascader"]
+	path = config/themes/cascader
+	url = git@github.com:bitweaver/theme_cascader.git
+[submodule "config/themes/chemokine"]
+	path = config/themes/chemokine
+	url = git@github.com:bitweaver/theme_chemokine.git
+[submodule "config/themes/clean"]
+	path = config/themes/clean
+	url = git@github.com:bitweaver/theme_clean.git
+[submodule "config/themes/eclipse"]
+	path = config/themes/eclipse
+	url = git@github.com:bitweaver/theme_eclipse.git
+[submodule "config/themes/essential"]
+	path = config/themes/essential
+	url = git@github.com:bitweaver/theme_essential.git
+[submodule "config/themes/fiftypercent"]
+	path = config/themes/fiftypercent
+	url = git@github.com:bitweaver/theme_fiftypercent.git
+[submodule "config/themes/firebird"]
+	path = config/themes/firebird
+	url = git@github.com:bitweaver/theme_firebird.git
+[submodule "config/themes/interleukin"]
+	path = config/themes/interleukin
+	url = git@github.com:bitweaver/theme_interleukin.git
+[submodule "config/themes/jill"]
+	path = config/themes/jill
+	url = git@github.com:bitweaver/theme_jill.git
+[submodule "config/themes/july4"]
+	path = config/themes/july4
+	url = git@github.com:bitweaver/theme_july4.git
+[submodule "config/themes/kraphiti"]
+	path = config/themes/kraphiti
+	url = git@github.com:bitweaver/theme_kraphiti.git
+[submodule "config/themes/lessneat"]
+	path = config/themes/lessneat
+	url = git@github.com:bitweaver/theme_lessneat.git
+[submodule "config/themes/logo03"]
+	path = config/themes/logo03
+	url = git@github.com:bitweaver/theme_logo03.git
+[submodule "config/themes/lynx"]
+	path = config/themes/lynx
+	url = git@github.com:bitweaver/theme_lynx.git
+[submodule "config/themes/mambo"]
+	path = config/themes/mambo
+	url = git@github.com:bitweaver/theme_mambo.git
+[submodule "config/themes/native2"]
+	path = config/themes/native2
+	url = git@github.com:bitweaver/theme_native2.git
+[submodule "config/themes/native"]
+	path = config/themes/native
+	url = git@github.com:bitweaver/theme_native.git
+[submodule "config/themes/navigo"]
+	path = config/themes/navigo
+	url = git@github.com:bitweaver/theme_navigo.git
+[submodule "config/themes/olfactory"]
+	path = config/themes/olfactory
+	url = git@github.com:bitweaver/theme_olfactory.git
+[submodule "config/themes/pompous"]
+	path = config/themes/pompous
+	url = git@github.com:bitweaver/theme_pompous.git
+[submodule "config/themes/skeleton"]
+	path = config/themes/skeleton
+	url = git@github.com:bitweaver/theme_skeleton.git
+[submodule "config/themes/slideshows"]
+	path = config/themes/slideshows
+	url = git@github.com:bitweaver/theme_slideshows.git
+[submodule "config/themes/smock"]
+	path = config/themes/smock
+	url = git@github.com:bitweaver/theme_smock.git
+[submodule "config/themes/studebaker"]
+	path = config/themes/studebaker
+	url = git@github.com:bitweaver/theme_studebaker.git
+[submodule "config/themes/tikipro"]
+	path = config/themes/tikipro
+	url = git@github.com:bitweaver/theme_tikipro.git
+[submodule "config/themes/ygg"]
+	path = config/themes/ygg
+	url = git@github.com:bitweaver/theme_ygg.git
