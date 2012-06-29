@@ -250,9 +250,6 @@
 [submodule "recommends"]
 	path = recommends
 	url = git@github.com:bitweaver/recommends.git
-[submodule "root"]
-	path = root
-	url = git@github.com:bitweaver/root.git
 [submodule "samplecorp"]
 	path = samplecorp
 	url = git@github.com:bitweaver/samplecorp.git
