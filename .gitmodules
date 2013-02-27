@@ -1,117 +1,117 @@
 [submodule "kernel"]
 	path = kernel
-	url = git@github.com:bitweaver/kernel.git
+	url = https://github.com/bitweaver/kernel.git
 [submodule "languages"]
 	path = languages
-	url = git@github.com:bitweaver/languages.git
+	url = https://github.com/bitweaver/languages.git
 [submodule "liberty"]
 	path = liberty
-	url = git@github.com:bitweaver/liberty.git
+	url = https://github.com/bitweaver/liberty.git
 [submodule "storage"]
 	path = storage
-	url = git@github.com:bitweaver/storage.git
+	url = https://github.com/bitweaver/storage.git
 [submodule "temp"]
 	path = temp
-	url = git@github.com:bitweaver/temp.git
+	url = https://github.com/bitweaver/temp.git
 [submodule "themes"]
 	path = themes
-	url = git@github.com:bitweaver/themes.git
+	url = https://github.com/bitweaver/themes.git
 [submodule "users"]
 	path = users
-	url = git@github.com:bitweaver/users.git
+	url = https://github.com/bitweaver/users.git
 [submodule "util"]
 	path = util
-	url = git@github.com:bitweaver/util.git
+	url = https://github.com/bitweaver/util.git
 [submodule "config/iconsets/tango"]
 	path = config/iconsets/tango
-	url = git@github.com:bitweaver/iconset_tango.git
+	url = https://github.com/bitweaver/iconset_tango.git
 [submodule "config/iconsets/gnome"]
 	path = config/iconsets/gnome
-	url = git@github.com:bitweaver/iconset_gnome.git
+	url = https://github.com/bitweaver/iconset_gnome.git
 [submodule "config/iconsets/gorilla"]
 	path = config/iconsets/gorilla
-	url = git@github.com:bitweaver/iconset_gorilla.git
+	url = https://github.com/bitweaver/iconset_gorilla.git
 [submodule "config/iconsets/highcontrast"]
 	path = config/iconsets/highcontrast
-	url = git@github.com:bitweaver/iconset_highcontrast.git
+	url = https://github.com/bitweaver/iconset_highcontrast.git
 [submodule "config/themes/basic"]
 	path = config/themes/basic
-	url = git@github.com:bitweaver/theme_basic.git
+	url = https://github.com/bitweaver/theme_basic.git
 [submodule "config/themes/blueprint"]
 	path = config/themes/blueprint
-	url = git@github.com:bitweaver/theme_blueprint.git
+	url = https://github.com/bitweaver/theme_blueprint.git
 [submodule "config/themes/pillbox"]
 	path = config/themes/pillbox
-	url = git@github.com:bitweaver/theme_pillbox.git
+	url = https://github.com/bitweaver/theme_pillbox.git
 [submodule "articles"]
 	path = articles
-	url = git@github.com:bitweaver/articles.git
+	url = https://github.com/bitweaver/articles.git
 [submodule "blogs"]
 	path = blogs
-	url = git@github.com:bitweaver/blogs.git
+	url = https://github.com/bitweaver/blogs.git
 [submodule "bnspell"]
 	path = bnspell
-	url = git@github.com:bitweaver/bnspell.git
+	url = https://github.com/bitweaver/bnspell.git
 [submodule "forums"]
 	path = forums
-	url = git@github.com:bitweaver/boards.git
+	url = https://github.com/bitweaver/boards.git
 [submodule "calendar"]
 	path = calendar
-	url = git@github.com:bitweaver/calendar.git
+	url = https://github.com/bitweaver/calendar.git
 [submodule "feed"]
 	path = feed
-	url = git@github.com:bitweaver/feed.git
+	url = https://github.com/bitweaver/feed.git
 [submodule "photos"]
 	path = photos
-	url = git@github.com:bitweaver/fisheye.git
+	url = https://github.com/bitweaver/fisheye.git
 [submodule "search"]
 	path = search
-	url = git@github.com:bitweaver/ilike.git
+	url = https://github.com/bitweaver/ilike.git
 [submodule "messages"]
 	path = messages
-	url = git@github.com:bitweaver/messages.git
+	url = https://github.com/bitweaver/messages.git
 [submodule "newsletters"]
 	path = newsletters
-	url = git@github.com:bitweaver/newsletters.git
+	url = https://github.com/bitweaver/newsletters.git
 [submodule "nexus"]
 	path = nexus
-	url = git@github.com:bitweaver/nexus.git
+	url = https://github.com/bitweaver/nexus.git
 [submodule "pigeonholes"]
 	path = pigeonholes
-	url = git@github.com:bitweaver/pigeonholes.git
+	url = https://github.com/bitweaver/pigeonholes.git
 [submodule "quicktags"]
 	path = quicktags
-	url = git@github.com:bitweaver/quicktags.git
+	url = https://github.com/bitweaver/quicktags.git
 [submodule "rss"]
 	path = rss
-	url = git@github.com:bitweaver/rss.git
+	url = https://github.com/bitweaver/rss.git
 [submodule "sharethis"]
 	path = sharethis
-	url = git@github.com:bitweaver/sharethis.git
+	url = https://github.com/bitweaver/sharethis.git
 [submodule "smileys"]
 	path = smileys
-	url = git@github.com:bitweaver/smileys.git
+	url = https://github.com/bitweaver/smileys.git
 [submodule "stars"]
 	path = stars
-	url = git@github.com:bitweaver/stars.git
+	url = https://github.com/bitweaver/stars.git
 [submodule "stats"]
 	path = stats
-	url = git@github.com:bitweaver/stats.git
+	url = https://github.com/bitweaver/stats.git
 [submodule "downloads"]
 	path = downloads
-	url = git@github.com:bitweaver/treasury.git
+	url = https://github.com/bitweaver/treasury.git
 [submodule "wiki"]
 	path = wiki
-	url = git@github.com:bitweaver/wiki.git
+	url = https://github.com/bitweaver/wiki.git
 [submodule "install"]
 	path = install
-	url = git@github.com:bitweaver/install.git
+	url = https://github.com/bitweaver/install.git
 [submodule "gatekeeper"]
 	path = gatekeeper
-	url = git@github.com:bitweaver/gatekeeper.git
+	url = https://github.com/bitweaver/gatekeeper.git
 [submodule "quota"]
 	path = quota
-	url = git@github.com:bitweaver/quota.git
+	url = https://github.com/bitweaver/quota.git
 [submodule "tags"]
 	path = tags
-	url = git@github.com:bitweaver/tags.git
+	url = https://github.com/bitweaver/tags.git
