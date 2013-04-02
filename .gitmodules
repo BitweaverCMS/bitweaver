@@ -115,3 +115,6 @@
 [submodule "tags"]
 	path = tags
 	url = git@github.com:bitweaver/tags.git
+[submodule "config/themes/bootstrap"]
+	path = config/themes/bootstrap
+	url = git@github.com:bitweaver/theme_bootstrap.git
