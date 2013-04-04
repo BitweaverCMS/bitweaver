@@ -16,7 +16,4 @@ define( 'ICONSETS_PATH', CONFIG_PKG_PATH.'iconsets/' );
 define( 'ICONSETS_URL', CONFIG_PKG_URL.'iconsets/' );
 define( 'ICONSETS_URI', CONFIG_PKG_URI.'iconsets/' );
 
-define( 'CONFIG_IMAGE_PATH', THEMES_PATH.SITE_NAME.'/images/' );
-define( 'CONFIG_IMAGE_URL', THEMES_URL.SITE_NAME.'/images/' );
-
 set_error_handler( 'bit_error_handler' );
