@@ -34,15 +34,6 @@
 [submodule "config/iconsets/highcontrast"]
 	path = config/iconsets/highcontrast
 	url = git@github.com:bitweaver/iconset_highcontrast.git
-[submodule "config/themes/basic"]
-	path = config/themes/basic
-	url = git@github.com:bitweaver/theme_basic.git
-[submodule "config/themes/blueprint"]
-	path = config/themes/blueprint
-	url = git@github.com:bitweaver/theme_blueprint.git
-[submodule "config/themes/pillbox"]
-	path = config/themes/pillbox
-	url = git@github.com:bitweaver/theme_pillbox.git
 [submodule "articles"]
 	path = articles
 	url = git@github.com:bitweaver/articles.git
