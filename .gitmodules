@@ -118,3 +118,6 @@
 [submodule "config/themes/bootstrap"]
 	path = config/themes/bootstrap
 	url = git@github.com:bitweaver/theme_bootstrap.git
+[submodule "config/externals/adodb"]
+	path = config/externals/adodb
+	url = git://github.com/bitweaver/adodb.git
