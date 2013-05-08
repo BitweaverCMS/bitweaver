@@ -34,15 +34,6 @@
 [submodule "config/iconsets/highcontrast"]
 	path = config/iconsets/highcontrast
 	url = https://github.com/bitweaver/iconset_highcontrast.git
-[submodule "config/themes/basic"]
-	path = config/themes/basic
-	url = https://github.com/bitweaver/theme_basic.git
-[submodule "config/themes/blueprint"]
-	path = config/themes/blueprint
-	url = https://github.com/bitweaver/theme_blueprint.git
-[submodule "config/themes/pillbox"]
-	path = config/themes/pillbox
-	url = https://github.com/bitweaver/theme_pillbox.git
 [submodule "articles"]
 	path = articles
 	url = https://github.com/bitweaver/articles.git
@@ -118,3 +109,21 @@
 [submodule "config/themes/bootstrap"]
 	path = config/themes/bootstrap
 	url = git://github.com/bitweaver/theme_bootstrap.git
+[submodule "config/externals/adodb"]
+	path = config/externals/adodb
+	url = git://github.com/bitweaver/adodb.git
+[submodule "config/themes/journal"]
+	path = config/themes/journal
+	url = git://github.com/bitweaver/theme_journal.git
+[submodule "config/themes/slate"]
+	path = config/themes/slate
+	url = git://github.com/bitweaver/theme_slate.git
+[submodule "config/themes/cerulean"]
+	path = config/themes/cerulean
+	url = git://github.com/bitweaver/theme_cerulean.git
+[submodule "config/themes/united"]
+	path = config/themes/united
+	url = git://github.com/bitweaver/theme_united.git
+[submodule "config/themes/readable"]
+	path = config/themes/readable
+	url = git://github.com/bitweaver/theme_readable.git
