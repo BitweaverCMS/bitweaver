@@ -111,19 +111,22 @@
 	url = git@github.com:bitweaver/theme_bootstrap.git
 [submodule "config/externals/adodb"]
 	path = config/externals/adodb
-	url = git://github.com/bitweaver/adodb.git
+	url = git@github.com:bitweaver/adodb.git
 [submodule "config/themes/journal"]
 	path = config/themes/journal
-	url = git://github.com/bitweaver/theme_journal.git
+	url = git@github.com:bitweaver/theme_journal.git
 [submodule "config/themes/slate"]
 	path = config/themes/slate
-	url = git://github.com/bitweaver/theme_slate.git
+	url = git@github.com:bitweaver/theme_slate.git
 [submodule "config/themes/cerulean"]
 	path = config/themes/cerulean
-	url = git://github.com/bitweaver/theme_cerulean.git
+	url = git@github.com:bitweaver/theme_cerulean.git
 [submodule "config/themes/united"]
 	path = config/themes/united
-	url = git://github.com/bitweaver/theme_united.git
+	url = git@github.com:bitweaver/theme_united.git
 [submodule "config/themes/readable"]
 	path = config/themes/readable
-	url = git://github.com/bitweaver/theme_readable.git
+	url = git@github.com:bitweaver/theme_readable.git
+[submodule "config/themes/quickstart"]
+	path = config/themes/quickstart
+	url = git@github.com:bitweaver/theme_quickstart.git
