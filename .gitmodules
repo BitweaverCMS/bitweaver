@@ -109,9 +109,6 @@
 [submodule "config/themes/cerulean"]
 	path = config/themes/cerulean
 	url = https://github.com/bitweaver/theme_cerulean.git
-[submodule "config/themes/united"]
-	path = config/themes/united
-	url = https://github.com/bitweaver/theme_united.git
 [submodule "config/externals/smarty"]
 	path = config/externals/smarty
 	url = https://github.com/bitweaver/smarty.git
