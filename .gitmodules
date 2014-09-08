@@ -112,9 +112,6 @@
 [submodule "config/themes/united"]
 	path = config/themes/united
 	url = https://github.com/bitweaver/theme_united.git
-[submodule "config/themes/readable"]
-	path = config/themes/readable
-	url = https://github.com/bitweaver/theme_readable.git
 [submodule "config/externals/smarty"]
 	path = config/externals/smarty
 	url = https://github.com/bitweaver/smarty.git
