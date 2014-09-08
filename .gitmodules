@@ -130,3 +130,6 @@
 [submodule "config/themes/quickstart"]
 	path = config/themes/quickstart
 	url = git@github.com:bitweaver/theme_quickstart.git
+[submodule "config/externals/smarty"]
+	path = config/externals/smarty
+	url = git://github.com/bitweaver/smarty.git
