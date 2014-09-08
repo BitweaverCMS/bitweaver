@@ -22,18 +22,6 @@
 [submodule "util"]
 	path = util
 	url = https://github.com/bitweaver/util.git
-[submodule "config/iconsets/tango"]
-	path = config/iconsets/tango
-	url = https://github.com/bitweaver/iconset_tango.git
-[submodule "config/iconsets/gnome"]
-	path = config/iconsets/gnome
-	url = https://github.com/bitweaver/iconset_gnome.git
-[submodule "config/iconsets/gorilla"]
-	path = config/iconsets/gorilla
-	url = https://github.com/bitweaver/iconset_gorilla.git
-[submodule "config/iconsets/highcontrast"]
-	path = config/iconsets/highcontrast
-	url = https://github.com/bitweaver/iconset_highcontrast.git
 [submodule "articles"]
 	path = articles
 	url = https://github.com/bitweaver/articles.git
@@ -127,3 +115,6 @@
 [submodule "config/themes/readable"]
 	path = config/themes/readable
 	url = https://github.com/bitweaver/theme_readable.git
+[submodule "config/externals/smarty"]
+	path = config/externals/smarty
+	url = https://github.com/bitweaver/smarty.git
