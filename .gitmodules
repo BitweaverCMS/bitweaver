@@ -34,9 +34,6 @@
 [submodule "config/iconsets/highcontrast"]
 	path = config/iconsets/highcontrast
 	url = git@github.com:bitweaver/iconset_highcontrast.git
-[submodule "articles"]
-	path = articles
-	url = git@github.com:bitweaver/articles.git
 [submodule "blogs"]
 	path = blogs
 	url = git@github.com:bitweaver/blogs.git
