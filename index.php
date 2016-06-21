@@ -5,16 +5,13 @@
  */
 require_once( 'kernel/setup_inc.php' );
 
-// $gBitSystem->loadLayout() needs ACTIVE_PACKAGE
 if( !$gBitSystem->isDatabaseValid() ) {
 	install_error();
-} elseif( !defined( 'ACTIVE_PACKAGE' )) {
+} elseif( !$gBitSystem->getActivePackage() ) {
 	$bit_index = $gBitSystem->getConfig( 'bit_index' );
 	if( in_array( $bit_index, array_keys( $gBitSystem->mPackages )) && defined( strtoupper( $bit_index ).'_PKG_PATH' )) {
-		define( 'ACTIVE_PACKAGE', constant( strtoupper( $bit_index ).'_PKG_NAME' ));
-		$gBitSystem->mActivePackage = $bit_index;
+		$gBitSystem->setActivePackage( $bit_index );
 	} else {
-		define( 'ACTIVE_PACKAGE', KERNEL_PKG_NAME );
 		unset( $bit_index );
 	}
 }

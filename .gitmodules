@@ -118,12 +118,6 @@
 [submodule "config/themes/cerulean"]
 	path = config/themes/cerulean
 	url = git@github.com:bitweaver/theme_cerulean.git
-[submodule "config/themes/united"]
-	path = config/themes/united
-	url = git@github.com:bitweaver/theme_united.git
-[submodule "config/themes/readable"]
-	path = config/themes/readable
-	url = git@github.com:bitweaver/theme_readable.git
 [submodule "config/themes/quickstart"]
 	path = config/themes/quickstart
 	url = git@github.com:bitweaver/theme_quickstart.git
